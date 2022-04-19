@@ -2,57 +2,57 @@ import images from './images';
 
 const wines = [
   {
-    title: 'Chapel Hill Shiraz',
-    price: '$56',
-    tags: 'AU | Bottle',
+    title: 'Baby Potatoes',
+    price: 'R25 | R35',
+    tags: '500G | 1KG',
   },
   {
-    title: 'Catena Malbee',
-    price: '$59',
-    tags: 'AU | Bottle',
+    title: 'Butternut',
+    price: 'R20 | R30',
+    tags: '500G | 1KG',
   },
   {
-    title: 'La Vieillw Rose',
-    price: '$44',
-    tags: 'FR | 750 ml',
+    title: 'Beetroot',
+    price: 'R30 | R50',
+    tags: '500G | 1KG',
   },
   {
-    title: 'Rhino Pale Ale',
-    price: '$31',
-    tags: 'CA | 750 ml',
+    title: 'Baby Marrow',
+    price: 'R35 | R65',
+    tags: '500G | 1KG',
   },
   {
-    title: 'Irish Guinness',
-    price: '$26',
-    tags: 'IE | 750 ml',
+    title: 'Cabbage Shredded',
+    price: 'R20 | R30',
+    tags: '500G | 1KG',
   },
 ];
 
 const cocktails = [
   {
-    title: 'Aperol Sprtiz',
-    price: '$20',
-    tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
+    title: 'Coselaw Mix',
+    price: 'R25 | R35',
+    tags: '500G | 1KG',
   },
   {
-    title: "Dark 'N' Stormy",
-    price: '$16',
-    tags: 'Dark rum | Ginger beer | Slice of lime',
+    title: "Country Fresh Mix",
+    price: 'R25 | R50',
+    tags: '500G | 1KG',
   },
   {
-    title: 'Daiquiri',
-    price: '$10',
-    tags: 'Rum | Citrus juice | Sugar',
+    title: 'Carrots',
+    price: 'R25 | R35',
+    tags: '500G | 1KG',
   },
   {
-    title: 'Old Fashioned',
-    price: '$31',
-    tags: 'Bourbon | Brown sugar | Angostura Bitters',
+    title: 'Green Beans cut and Julienne Carrot Mix ',
+    price: 'R30 | R40',
+    tags: '500G | 1KG',
   },
   {
-    title: 'Negroni',
-    price: '$26',
-    tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
+    title: 'Mixed bell peppers',
+    price: 'R50 | R85',
+    tags: '500G | 1KG',
   },
 ];
 

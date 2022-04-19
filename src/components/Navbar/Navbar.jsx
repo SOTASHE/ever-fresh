@@ -32,7 +32,7 @@ const Navbar = () => {
       <div className="app__navbar-login">
         <a href="#login" className="p__opensans"></a>
 
-        <a href="/" className="p__opensans">
+        <a href="#contact" className="p__opensans">
           Order now
         </a>
       </div>

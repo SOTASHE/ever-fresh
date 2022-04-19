@@ -9,13 +9,13 @@ const App = () => (
     <Navbar />
     <Header />
     <AboutUs />
-  {/*   <SpecialMenu />
-    <Chef />
-    <Intro />
+    <SpecialMenu />
+    {/* 
+    <Intro /> */}
     <Laurels />
     <Gallery />
     <FindUs />
-    <Footer /> */}
+    <Footer />
   </div>
 );
 
