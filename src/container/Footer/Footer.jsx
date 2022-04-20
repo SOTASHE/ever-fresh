@@ -27,6 +27,7 @@ const Footer = () => (
           src={images.spoon}
           className="spoon__img"
           style={{ marginTop: 15 }}
+          alt="spoon"
         />
         <div className="app__footer-links_icons">
           <FiFacebook href="https://www.facebook.com/EverFreshveggies/" />
@@ -48,7 +49,11 @@ const Footer = () => (
 
       <p className="p__opensans">
         Developed by
-        <a href="https://www.creativelizard.co.za/" target="_blank">
+        <a
+          href="https://www.creativelizard.co.za/"
+          target="_blank"
+          rel="noreferrer"
+        >
           <h1>CreativeLizard </h1>
         </a>
       </p>

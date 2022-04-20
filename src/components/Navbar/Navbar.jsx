@@ -1,5 +1,5 @@
 import React from "react";
-import { icons } from "react-icons";
+//import { icons } from "react-icons";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { MdOutlineRestaurantMenu } from "react-icons/md";
 
@@ -34,7 +34,7 @@ const Navbar = () => {
       </ul>
 
       <div className="app__navbar-login">
-        <a href="#login" className="p__opensans"></a>
+        {/* <a href="#login" className="p__opensans"></a> */}
 
         <a href="#contact" className="p__opensans">
           Order now
