@@ -25,6 +25,10 @@ const Navbar = () => {
           <a href="#menu">Menu</a>{" "}
         </li>
         <li className="p__opensans">
+          <a href="#menu"> Gallery</a>{" "}
+        </li>
+
+        <li className="p__opensans">
           <a href="#contact">Contact</a>{" "}
         </li>
       </ul>

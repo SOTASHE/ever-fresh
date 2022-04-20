@@ -14,7 +14,7 @@ const Footer = () => (
       <div className="app__footer-links_contact">
         <h1 className="app__footer-headtext">Contact Us</h1>
         <p className="p__opensans">Nkululekweni location</p>
-        <p className="p__opensans">+27 76 844 3759</p>
+        <p className="p__opensans">+27 67 700 7617</p>
       </div>
 
       <div className="app__footer-links_logo">
@@ -29,7 +29,7 @@ const Footer = () => (
           style={{ marginTop: 15 }}
         />
         <div className="app__footer-links_icons">
-          <FiFacebook />
+          <FiFacebook href="https://www.facebook.com/EverFreshveggies/" />
           <FiTwitter />
           <FiInstagram />
         </div>
